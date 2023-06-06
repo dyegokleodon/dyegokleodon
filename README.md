@@ -1,7 +1,7 @@
 ### Fala Galera, meu nome é Dyego Kleodon 👋
 
 - 🔭 Hoje estou trabalhando Fullstack
-- 🌱 Estudando NodeJs, React Native, ReactJS
+- 🌱 Estudando NodeJs, React Native, ReactJS, Java Spring Boot, Microservices
 - 😄 Pronouns: ele/dele
 
 <div align="left">
