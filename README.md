@@ -16,7 +16,7 @@
   <img align="center" alt="dyego-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="dyego-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="dyego-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="dyego-SpringBoot" height="40" width="40" src="https://www.instana.com/media/spring_boot_logo-150x150.png">
+  <img align="center" alt="dyego-SpringBoot" height="30" width="30" src="https://www.instana.com/media/spring_boot_logo-150x150.png">
   
 </div>
  
